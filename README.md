@@ -2,7 +2,7 @@
 
 This is my first Repository which i made by learning my own
 
-I am learning github, little confuse and little nervious 😁
+I am learning github, little confuse and little nervous 😁
 
 Github is a good platform where people can work together on a same or different projects.
 
