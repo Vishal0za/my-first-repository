@@ -1,4 +1,4 @@
-# myFirstRepository
+# my first repository :
 
 This is my first Repository which i made for learning learning pupose only.
 
