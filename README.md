@@ -1,6 +1,6 @@
 # myFirstRepository
 
-This is my first Repository which i made by learning my own
+This is my first Repository which i made for learning learning pupose only.
 
 I am learning github, little confuse and little nervous 😁
 
